@@ -1,0 +1,21 @@
+body{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 250px;
+  width: fit-content;
+}
+
+#input{
+  font-size: 30px;
+  font-weight: bold;
+  width: 300px;
+}
+#translate{
+  display: flex;
+  font-size: 30px;
+  font-weight: bold;
+  justify-content: center;
+  align-items: center;
+  color: red;
+}
